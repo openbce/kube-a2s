@@ -1,2 +1,3 @@
-# a2s
-Accelerator Aware Scheduling
+# kube-a2s
+
+Kubernetes Accelerator Aware Scheduling
